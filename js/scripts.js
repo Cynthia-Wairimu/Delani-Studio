@@ -1,6 +1,6 @@
 var contactForm = $("#contact-form");
 
-$(function() {
+$(document).ready(function() {
     // what we do titles add bold class and center
     $('.w-title').addClass("fw-bold text-center");
 
