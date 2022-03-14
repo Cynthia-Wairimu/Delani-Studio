@@ -8,7 +8,7 @@ html {
 
 /* Home Section */
 #home {
-  background: url("../images/background/h_img.jpg");
+  background: url("/images/background/h_img.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -36,7 +36,7 @@ html {
 
 /* Services Section */
 #services {
-  background: url("../images/background/s_image.jpg");
+  background: url("/images/background/s_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 480px;
@@ -104,7 +104,7 @@ html {
 
 /* Contact section */
 #contact {
-  background: url("../images/background/c_image.jpg");
+  background: url("/images/background/c_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
