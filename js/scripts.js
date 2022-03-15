@@ -13,7 +13,7 @@ $(document).ready(function() {
 
             alert(`Thank you ${name}, your message has been received, We'll get back to you shortly.`);
             clearForm();
-            console.log("This works");
+            
         }
         
     
