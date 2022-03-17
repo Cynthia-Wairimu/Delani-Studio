@@ -11,7 +11,7 @@ $(document).ready(function () {
       let name = $("input.name").val();
 
       alert(
-        `Thank you ${name}, your message has been received, We'll get back to you shortly.`
+        `Thank you ${name}, your message has been received, We'll get back to you as soon as possible.`
       );
       clearForm();
     }
@@ -35,6 +35,8 @@ $(document).ready(function () {
       }
     });
   }
+
+
 
   // validate contact form
 
